@@ -45,6 +45,7 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
       <b>Languages</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </td>
     <td align="center" width="25%">
       <b>Frontend</b><br>
@@ -55,12 +56,14 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
     <td align="center" width="25%">
       <b>Backend</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+      <!-- USE PNG EXPRESS LOGO FOR VISIBILITY ON DARK BG -->
+      <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="ExpressJS" style="background:white; border-radius:6px;" width="40" height="40"/>
     </td>
     <td align="center" width="25%">
       <b>Databases</b><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      <!-- USE PNG/ICON8 LOGOS FOR VISIBILITY -->
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
     </td>
   </tr>
   <tr>
