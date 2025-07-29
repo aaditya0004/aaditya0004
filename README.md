@@ -56,7 +56,7 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Backend</b><br/>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" style="background:white; border-radius:8px; padding:5px; vertical-align:middle;"/>
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Databases</b><br/>
