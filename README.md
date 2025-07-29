@@ -39,45 +39,41 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
 
 ## 🛠️ My Tech Arsenal
 
-<!-- LANGUAGES -->
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-</p>
-
-<!-- FRONTEND -->
-<p align="center">
-  <b>Frontend</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-</p>
-
-<!-- BACKEND -->
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-</p>
-
-<!-- DATABASES -->
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="72" height="36" style="margin:10px; background:white; border-radius:10px; padding:4px 8px;"/>
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="56" height="56" style="margin:10px; border-radius:12px; background:white; padding:6px;"/>
-</p>
-
-<!-- TOOLS & DEVOPS -->
-<p align="center">
-  <b>Tools & DevOps</b><br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="52" height="52" style="margin:10px; border-radius:16px; background:white; padding:6px;"/>
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="25%">
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Languages</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </td>
+    <td align="center" valign="middle" width="25%">
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Frontend</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </td>
+    <td align="center" valign="middle" width="25%">
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Backend</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50" style="background:white; border-radius:8px; padding:5px; vertical-align:middle;"/>
+    </td>
+    <td align="center" valign="middle" width="25%">
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Databases</b><br/>
+      <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4" valign="middle">
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Tools &amp; DevOps</b><br/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
