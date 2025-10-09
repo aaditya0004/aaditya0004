@@ -76,7 +76,7 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+  [![An image of @aaditya0004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaditya0004)](https://holopin.io/@aaditya0004)
 </p>
 
 <p align="center">
