@@ -23,6 +23,21 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
 - 📫 Connect: [aadityatyagi0004@gmail.com](mailto:aadityatyagi0004@gmail.com)
 - ✨ Fun fact: “The best code is not just functional, but elegant and readable.”
 
+
+## 🔗 &nbsp;Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaditya-tyagi04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/QUV8fJkF06/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tyagiaad7cq4/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>
+</p>
+
 ## 🛠️ My Tech Arsenal
 
 <table align="center" width="100%">
@@ -61,25 +76,11 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
   </tr>
 </table>
 
-## 🔗 &nbsp;Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaditya-tyagi04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/QUV8fJkF06/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/tyagiaad7cq4/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
-  </a>
-
 ## 🎖️ Badges
 
   <a href="https://holopin.io/@aaditya0004" target="_blank">
     <img src="https://holopin.me/aaditya0004" alt="An image of @aaditya0004's Holopin badges" />
   </a>
-</p>
 
 
 <p align="center">
