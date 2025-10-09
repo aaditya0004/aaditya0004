@@ -73,6 +73,9 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
   <a href="https://www.geeksforgeeks.org/user/tyagiaad7cq4/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
   </a>
+
+## 🎖️ Badges
+
   <a href="https://holopin.io/@aaditya0004" target="_blank">
     <img src="https://holopin.me/aaditya0004" alt="An image of @aaditya0004's Holopin badges" />
   </a>
