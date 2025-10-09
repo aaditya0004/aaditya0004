@@ -78,3 +78,7 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+</p>
