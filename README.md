@@ -76,7 +76,7 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
 </table>
 
 <p align="center">
-  [![An image of @aaditya0004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaditya0004)](https://holopin.io/@aaditya0004)
+  [![An image of @aaditya0004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaditya0004)](https://www.holopin.io/@aaditya0004#)
 </p>
 
 <p align="center">
