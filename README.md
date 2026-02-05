@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cr-im/cr-im/main/assets/images/header_1.gif" alt="Coding GIF" width="100%" />
+  <img src="https://camo.githubusercontent.com/b957d32e212a1168c9bcd26cf38c892c6b5619e7933f294e33a305543f49c15a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f32326232323238373630323532332e356462643239303831353631642e676966" alt="Coding GIF" width="90%" />
 </p>
 
 <h1 align="center">
@@ -8,21 +9,18 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" alt="Waving Hand"/>
 </h1>
 
-<p align="center"><strong>From lines of code to intelligent, scalable web solutions.</strong><br>
-I'm a <b>Full Stack Developer</b> on a mission to build applications that are not just functional, but smart and intuitive.
+<p align="center"><strong>From lines of code to intelligent, Agentic AI solutions.</strong><br>
+I'm a <b>Software Developer</b> & <b>AI Enthusiast</b> on a mission to bridge the gap between robust backend systems and Generative AI.
 </p>
 
 ## 🚀 About Me
 
-- 🎓 Final-year IT student, passionate about the entire development lifecycle.
-- 💡 350+ data structures & algorithm problems solved (and counting!).
-- ⚡ MERN stack enthusiast: love architecting robust backends, clean APIs, and seamless full-stack solutions.
-- 🌱 Exploring system design and large-scale app architecture.
-- 🤝 Open to collaborating on innovative open-source projects.
-- 💬 Ask me about: **MERN Stack, DSA, C++**.
-- 📫 Connect: [aadityatyagi0004@gmail.com](mailto:aadityatyagi0004@gmail.com)
-- ✨ Fun fact: “The best code is not just functional, but elegant and readable.”
-
+- 🎓 **Final-year IT Student** at GTBIT (GGSIPU), Class of 2026.
+- 💡 **350+ DSA problems solved** across LeetCode & GeeksForGeeks.
+- ⚡ **Tech Stack:** Specialized in **MERN** (MongoDB, Express, React, Node) and expanding into **TypeScript** & **PostgreSQL**.
+- 🧠 **AI Focus:** Actively building **RAG Systems** and **Agentic Workflows** using LangChain & PyTorch.
+- 💬 **Ask me about:** C++, MERN Stack, and Generative AI.
+- 📫 **Connect:** [aadityatyagi0004@gmail.com](mailto:aadityatyagi0004@gmail.com)
 
 ## 🔗 &nbsp;Let's Connect
 
@@ -44,37 +42,36 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
   <tr>
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" alt="Languages" height="40"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Frontend</b><br/>
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" height="40"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Backend</b><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" height="40"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Databases</b><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" alt="Databases" height="40"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="4" valign="middle">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Tools &amp; DevOps</b><br/>
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">AI & Tools</b><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,git,github,postman,vscode,docker" alt="Tools" height="40"/>
     </td>
   </tr>
 </table>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Tyagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Tyagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
+</div>
 
 ## 🎖️ Badges
 
@@ -82,6 +79,17 @@ I'm a <b>Full Stack Developer</b> on a mission to build applications that are no
     <img src="https://holopin.me/aaditya0004" alt="An image of @aaditya0004's Holopin badges" />
   </a>
 
+
+
+
+<h2 >💭 Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+<!-- <h2 align="center">💭 Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cloud" alt="Dev Quote" />
+</div> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
