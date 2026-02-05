@@ -66,13 +66,6 @@ I'm a <b>Software Developer</b> & <b>AI Enthusiast</b> on a mission to bridge th
 </table>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Tyagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Tyagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
-</div>
-
 ## 🎖️ Badges
 
   <a href="https://holopin.io/@aaditya0004" target="_blank">
