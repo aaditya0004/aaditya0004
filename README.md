@@ -1,6 +1,6 @@
-
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b957d32e212a1168c9bcd26cf38c892c6b5619e7933f294e33a305543f49c15a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f32326232323238373630323532332e356462643239303831353631642e676966" alt="Coding GIF" width="90%" />
+
+  <iframe src="https://www.behance.net/embed/project/183178475?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 </p>
 
 <h1 align="center">
@@ -9,20 +9,15 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" alt="Waving Hand"/>
 </h1>
 
-<p align="center"><strong>From lines of code to intelligent, Agentic AI solutions.</strong><br>
-I'm a <b>Software Developer</b> & <b>AI Enthusiast</b> on a mission to bridge the gap between robust backend systems and Generative AI.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(Backend+%26+AI);Building+Distributed+Systems+with+Spring+Boot+%26+Redis;Engineering+Production+RAG+%26+Agentic+AI+Workflows;Scaling+Data+Pipelines+with+PySpark+%26+Apache+Kafka" alt="Typing SVG" />
+  </a>
 </p>
 
-## 🚀 About Me
-
-- 🎓 **Final-year IT Student** at GTBIT (GGSIPU), Class of 2026.
-- 💡 **350+ DSA problems solved** across LeetCode & GeeksForGeeks.
-- ⚡ **Tech Stack:** Specialized in **MERN** (MongoDB, Express, React, Node) and expanding into **TypeScript** & **PostgreSQL**.
-- 🧠 **AI Focus:** Actively building **RAG Systems** and **Agentic Workflows** using LangChain & PyTorch.
-- 💬 **Ask me about:** C++, MERN Stack, and Generative AI.
-- 📫 **Connect:** [aadityatyagi0004@gmail.com](mailto:aadityatyagi0004@gmail.com)
-
-## 🔗 &nbsp;Let's Connect
+<p align="center">
+  <strong>Software Development Engineer</strong> focused on building scalable backend architectures, distributed data pipelines, and production-grade Applied AI systems.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaditya-tyagi04/" target="_blank">
@@ -32,57 +27,85 @@ I'm a <b>Software Developer</b> & <b>AI Enthusiast</b> on a mission to bridge th
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/tyagiaad7cq4/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="mailto:aadityatyagi0004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## 🛠️ My Tech Arsenal
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" alt="Rocket"/> About Me
+
+- 💼 **Currently:** Software Development Engineer (DSE) at **Infosys**, building distributed ETL and streaming pipelines using **PySpark** & **Apache Kafka**.
+- 🏦 **Previously:** Backend SDE Intern at **Noir Capital**, building REST APIs and auth systems for a FinTech SaaS platform.
+- ⚙️ **Core Focus:** **Java (Spring Boot)**, **Python (FastAPI)**, **Distributed Systems**, and **Applied AI** (Production RAG, Tool-Calling Agents, & LLM Evals).
+- 🧩 **Problem Solving:** Solved **350+ DSA problems** across LeetCode & GeeksforGeeks.
+- 📫 **Reach out:** [aadityatyagi0004@gmail.com](mailto:aadityatyagi0004@gmail.com) — always open to chatting about backend architecture, AI engineering, and product-tech roles.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" alt="Tools"/> Tech Arsenal
 
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="25%">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" alt="Languages" height="40"/>
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,py,cpp,js" alt="Languages" height="42"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Frontend</b><br/>
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" height="40"/>
+      <b>Backend & APIs</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" alt="Backend" height="42"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Backend</b><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" height="40"/>
+      <b>Databases & Caching</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" alt="Databases" height="42"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">Databases</b><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" alt="Databases" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4" valign="middle">
-      <b style="font-size:18px; font-weight:bold; margin-bottom:8px; display:block;">AI & Tools</b><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,git,github,postman,vscode,docker" alt="Tools" height="40"/>
+      <b>DevOps & Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,kafka,azure,git" alt="DevOps & Cloud" height="42"/>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <b>Data Engineering & Applied AI</b><br/><br/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-## 🎖️ Badges
+---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" alt="Projects"/> Featured Engineering Projects
+
+| Project | Stack | What It Does |
+| :--- | :--- | :--- |
+| **[Distributed Rate Limiter Service](https://github.com/aaditya0004/rate-limiter-service)** | `Java` `Spring Boot` `Redis` `Docker` | Distributed API throttling microservice using the Token Bucket algorithm with O(1) Redis lookups and Dockerized deployment. |
+| **[ThreadWise](https://github.com/aaditya0004/ThreadWise)** | `Node.js` `Elasticsearch` `Llama 3.2` | AI-powered email aggregator with full-text Elasticsearch indexing, automated classification, and LLM-generated summaries. |
+| **[SmartResume](https://github.com/aaditya0004/smart-resume-app)** | `Node.js` `Gemini API` `REST` | Resume parsing and ATS analysis engine that matches candidate profiles against job descriptions with structured skill-gap feedback. |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" height="28" alt="Badges"/> Badges & Dev Quote
+
+<p align="center">
   <a href="https://holopin.io/@aaditya0004" target="_blank">
     <img src="https://holopin.me/aaditya0004" alt="An image of @aaditya0004's Holopin badges" />
   </a>
+</p>
 
-
-
-
-<h2 >💭 Random Dev Quote</h2>
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
-<!-- <h2 align="center">💭 Random Dev Quote</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cloud" alt="Dev Quote" />
-</div> -->
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaditya-Tyagi&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
